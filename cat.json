@@ -1,14 +1,14 @@
 [
     {
       "id": 1,
-      "name": "I am hungry",
+      "name": "I'm hungry, can you feed me?",
       "sound_url": "",
-      "image_url": ""
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
     },
     {
       "id": 2,
       "name": "I am hungry",
       "sound_url": "",
-      "image_url": ""
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
     }
 ]
