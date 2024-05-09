@@ -1,122 +1,124 @@
+
+
 [
   {
-    "id": 1,
-    "name": "Hello sweetheart, how are you today?",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 1,
+      "name": "Let's go outside and run a bit.",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 2,
-    "name": "It’s mealtime, come on!",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 2,
+      "name": "Who's here, my favorite buddy?",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 3,
-    "name": "I love you so much, do you know that?",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 3,
+      "name": "It’s mealtime, come see what I've got!",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 4,
-    "name": "Let’s play!",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 4,
+      "name": "Bring your ball, I'll throw it for you.",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 5,
-    "name": "Do you want to go outside?",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 5,
+      "name": "Walking with you is the best thing ever.",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 6,
-    "name": "Where have you been all day, I missed you.",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 6,
+      "name": "It’s bath time now.",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 7,
-    "name": "Come on my lap.",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 7,
+      "name": "You are so smart, you learned so quickly!",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 8,
-    "name": "It’s bedtime, let’s go to bed.",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 8,
+      "name": "Feeling sleepy? Let’s take a nap.",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 9,
-    "name": "Don’t be naughty, look what you are doing!",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 9,
+      "name": "I got you some new toys, let’s see if you like them.",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 10,
-    "name": "How beautiful you are, look at you!",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 10,
+      "name": "Let's get some exercise.",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 11,
-    "name": "It’s time for some purring, come here.",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 11,
+      "name": "I love you so much, you know that?",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 12,
-    "name": "Your fur is all over the place again, shall we brush it?",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 12,
+      "name": "Don’t look at me with those sweet eyes, I’m melting!",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 13,
-    "name": "It’s vet day today, are you ready?",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 13,
+      "name": "Let's cuddle for a bit.",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 14,
-    "name": "I missed playing with you so much!",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 14,
+      "name": "Calm down, there’s nothing to worry about, I’m right here.",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 15,
-    "name": "Calm down, nothing happened, I'm here.",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 15,
+      "name": "You shouldn’t chew on these shoes.",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 16,
-    "name": "Good job, good girl/boy!",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 16,
+      "name": "Shall we go to the park today?",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 17,
-    "name": "How soft you are, it’s so nice to pet you.",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 17,
+      "name": "Slow down, eat your food slowly.",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 18,
-    "name": "Are you chasing mice in your dreams again?",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 18,
+      "name": "I love how you bark, talking with you is so much fun.",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 19,
-    "name": "Let’s go to the window and watch the birds together.",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 19,
+      "name": "You are my best friend, I'm always here for you.",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   },
   {
-    "id": 20,
-    "name": "I’ve refreshed your litter box, you’ll be more comfortable now.",
-    "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/cat1.mp3",
-    "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/cat_64.png"
+      "id": 20,
+      "name": "Let’s play together and burn off some energy.",
+      "sound_url": "https://github.com/mehmeteminyildiz/json_test_pt/raw/main/dog1.mp3",
+      "image_url": "https://raw.githubusercontent.com/mehmeteminyildiz/json_test_pt/main/dog_64.png"
   }
-]
+  ]
